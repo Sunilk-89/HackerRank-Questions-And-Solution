@@ -1,7 +1,7 @@
 Given a string str which represents a sentence, the task is to remove the duplicate words from sentences using regular expression.
 Examples: 
  
-Input: str = "Welcome to to to the world world of intelligent computers computers." 
+Input: Welcome to to to the world world of intelligent computers computers.
 Output: Welcome to the world of intelligent computers. 
 
 
